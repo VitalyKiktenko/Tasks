@@ -1,0 +1,6 @@
+D:\CSharp\Task2612\Task2612\bin\Debug\Task2612.exe.config
+D:\CSharp\Task2612\Task2612\bin\Debug\Task2612.exe
+D:\CSharp\Task2612\Task2612\bin\Debug\Task2612.pdb
+D:\CSharp\Task2612\Task2612\obj\Debug\Task2612.csprojResolveAssemblyReference.cache
+D:\CSharp\Task2612\Task2612\obj\Debug\Task2612.exe
+D:\CSharp\Task2612\Task2612\obj\Debug\Task2612.pdb
